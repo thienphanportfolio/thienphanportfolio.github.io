@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+}
+.nav, .content, .footer{
+	background-color: #aca9a3;
+	
+}
+.nav img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav ul li{
+	display: inline;
+	padding: 0 15px;
+	color: black;
+	font-size: 15px;
+}
+.nav ul{
+	text-align: center;
+}
+.noidung1 img{
+	padding-top: 50px;
+	padding-right:10px;
+	float:right;
+}
+.noidung1 h1{
+	padding-top: 200px;
+	text-align: center;
+	font-size: 16px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.noidung1 h2{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.noidung1 h3{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.noidung1 h4{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.hinhtrongnoidung1{
+	display:inline-grid;
+	padding-left: 420px;
+	padding-top: 100px;
+}
+.noidung2{
+	background-image: url("noidung1.jpg");
+	background-size: cover;
+	height: 800px;
+}
+.noidung2 h1{
+	color: white;
+	font-size: 28px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 300px;
+	float: right;
+	padding-right: 70px;
+}
+.noidung3 h1{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.luoianh img{
+	height: 706px;
+	width: 471PX;
+	padding-top: 40px;
+	padding-left: 62px;
+}
+.noidung4 img{
+	height: 800px;
+	padding-top: 15px;
+	float:right;
+}
+.noidung4 h1{
+	padding-top: 250px;
+	text-align: center;
+	font-size: 16px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.noidung4 h2{
+	padding-top: 20px;
+	text-align: center;
+	font-size: 14px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+.noidung5 img{
+	height: 844px;
+	width: 675PX;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	padding: 40px;
+}
+.noidung5 h2{
+	padding-top: 600px;
+	text-align: center;
+	font-size: 12px;
+	font-style: italic;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+.noidung6{
+	background-image: url("noidung5.JPG");
+	background-size: cover;
+	height: 800px;
+}
+.noidung6 h1{
+	color: white;
+	font-size: 40px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 300px;
+	float: left;
+	padding-left: 110px;
+}
+.noidung7 h4{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.luoianh3 img{
+	height: 472px;
+	width: 472PX;
+	padding-top: 40px;
+	padding-left: 62px;
+}
+.noidung8{
+	background-image: url("noidung4.JPG");
+	background-size: cover;
+	height: 800px;
+}
+.noidung8 h1{
+	color: white;
+	font-size: 50px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 250px;
+	text-align: center;
+}
+.noidung9 img{
+	height: 800px;
+	padding-top: 60px;
+	float:left;
+}
+.noidung9 h1 {
+	padding-top: 400px;
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.noidung10 h1{
+	padding-top: 500px;
+	text-align: center;
+	font-size: 14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.luoianh5 img{
+	height: 706px;
+	width: 471PX;
+	padding-top: 40px;
+	padding-left: 62px;
+  }
+.footer h1{
+	padding-top: 100px;
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
